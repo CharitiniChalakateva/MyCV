@@ -2,7 +2,8 @@
 
 (I) Επικοινωνία:
 
-Email: chalakatevacharitini@gmail.com 
+Email: chalakatevacharitini@gmail.com
+ 
 Instagram: @__charitini_chalakateva__
 
 (II) Επαγγελματικό Προφίλ και Εκπαίδευση:
