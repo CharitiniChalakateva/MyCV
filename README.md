@@ -1,25 +1,28 @@
 # MyCV
 
-I) Επικοινωνία:
+(I) Επικοινωνία:
 
 Email: chalakatevacharitini@gmail.com 
+Instagram: @__charitini_chalakateva__
 
-II) Επαγγελματικό Προφίλ και Εκπαίδευση:
+(II) Επαγγελματικό Προφίλ και Εκπαίδευση:
 
-Είμαι προπτυχιακή φοιτήτρια στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών στο τμήμα Πληροφορικής και Τηλεπικοινωνιών. Ειδικεύομαι στις γλώσσες προγραμματισμού C, C++ και Python.
+Είμαι προπτυχιακή φοιτήτρια στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών στο τμήμα Πληροφορικής και Τηλεπικοινωνιών. Ειδικεύομαι στις γλώσσες προγραμματισμού C, C++ , Python και JAVA
 
-III) Επιτεύγματα:
-ECCE Lower - Successfully passed (2018)
-TOEIC Lower - Sucsessfully passed (2018)
-Anavryta Model Lyceum - Model of United Nations - Successful participation in the 3rd session as a deligate in Cabinet 1 in the Crisis Committee (2020)
+(III) Επιτεύγματα:
 
-IV) Επαγγελματικές Δεξιότητες: 
+(1) ECCE Lower - Successfully passed (2018)
+(2) TOEIC Lower - Sucsessfully passed (2018)
+(3) Anavryta Model Lyceum - Model of United Nations - Successful participation in the 3rd session as a deligate in Cabinet 1 in the 
+                                                                                  Crisis Committee (2020)
 
-Εξοικείωση με τις γλώσσα Αντικειμενοστραφούς Προγραμματισμού : C++ 
+(IV) Επαγγελματικές Δεξιότητες: 
+
+Εξοικείωση με τις γλώσσες Αντικειμενοστραφούς Προγραμματισμού : C++ , JAVA
 
 Εξοικείωση με τις γλώσσες Προστακτικού Προγραμματισμού : C , Python 
 
-V) Ενασχόληση με : 
+(V) Ενασχόληση με : 
 
 Περιβάλλον Office Word, Power Point, Exel
 
