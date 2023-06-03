@@ -12,7 +12,9 @@ Instagram: @__charitini_chalakateva__
 (III) Επιτεύγματα:
 
 (1) ECCE Lower - Successfully passed (2018)
+
 (2) TOEIC Lower - Sucsessfully passed (2018)
+
 (3) Anavryta Model Lyceum - Model of United Nations - Successful participation in the 3rd session as a deligate in Cabinet 1 in the 
                                                                                   Crisis Committee (2020)
 
